@@ -64,3 +64,7 @@ body {
 .robot:hover .robot-head-right {
   transform: translate(35px, -10px);
 }
+
+.robot:hover .robot-brain {
+  transform: translate(0, -20px);
+}
